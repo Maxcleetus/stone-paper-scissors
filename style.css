@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color:#2471a3 ;
+    color: rgba(0, 0, 0, 0.707);
+}
+button{
+    font-size: 2.5rem;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.707);
+    border-radius: 25%;
+    border: white 2px solid;
+}
+button:hover{
+    background-color: rgba(0, 0, 0, 0.837);
+}
+button:active{
+    background-color: rgba(0, 0, 0, 0.96);
+}
+.container{
+    margin-bottom: 3%;
+}
+#playerDisplay{
+    font-size: 25px;
+}
+#computerDisplay{
+    font-size: 25px;
+}
+#resultDisplay{
+    font-size: 50px;
+}
