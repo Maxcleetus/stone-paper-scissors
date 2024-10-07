@@ -2,6 +2,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
     flex-direction: column;
     background-color:#2471a3 ;
     color: rgba(0, 0, 0, 0.707);
